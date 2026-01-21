@@ -18,7 +18,7 @@ data:
   # ===== AWS 서비스 설정 (한국 리전) =====
   AWS_REGION: "ap-northeast-2"
   AWS_USER_POOL_ID: "ap-northeast-2_mFvtIc1kQ"
-  AWS_CLIENT_ID: "3c0kds3554rvakp9piqv694at2"
+  AWS_CLIENT_ID: "1k4b57manq0r67vdit9bu4u8dc"
   S3_BUCKET: "fproject-s3-1234567"  # 프로필 이미지 업로드용 S3 버킷
   
   # ===== Google OAuth 설정 =====
